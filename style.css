@@ -1,0 +1,88 @@
+body{
+	background-color:#ddffdd;
+	color: #002200 ;
+	Width: 70% ;
+	margin: 20px auto;
+}
+
+h1{
+	text-align: center;
+	font-weight:normal ;
+margin-bottom: 50px ;
+}
+#felkover{
+
+font-weight:bold;
+
+}
+
+#behuz{
+	
+	margin-left:40px;
+	
+	
+}
+
+.elso{
+		margin-bottom:();
+}
+.masodik(2){
+	margin-top:();
+}
+
+hr{
+	background-image: url('csillag.png');
+	
+	height: 45px;
+	border:none;
+	
+	
+}
+
+div{
+	text-align:center;
+	
+}
+
+ul li{
+	font-weight:bold;
+	
+	
+}
+ul li ul li{
+	font-weight:normal;
+	list-style-type:none;
+}
+ul li ul li:first-child{
+	margin-top:20px;
+	
+}
+ul li ul li:last-child{
+	margin-bottom:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
